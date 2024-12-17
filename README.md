@@ -3,4 +3,4 @@ This repo provides the matlab code for the validations of our Affine EKF framewo
 In each folder for an application, run **Main.m** to implement the Monte Carlo simulations.
 All the compared algorithms are implemented by ourselves. 
 
-The related full version paper is available in: 
+The related full version paper is available in: https://arxiv.org/abs/2412.10809
