@@ -6,3 +6,5 @@ All the compared algorithms are implemented by ourselves.
 The related full version paper is available in: https://arxiv.org/abs/2412.10809
 
 In this paper, we also prove some sufficient and necessary conditions between the state independent unobservable subspace and observability constraint for consistency.
+
+Based on the newly proved theorems, we propose a novel framework to design the consistent EKF.
